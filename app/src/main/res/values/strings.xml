@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaterialBottomSheet</string>
+    <string name="show_bottom_sheet">Show Bottom Sheet</string>
+    <string name="hello_this_is_bottom_sheet">Hello This is Bottom Sheet</string>
+</resources>
